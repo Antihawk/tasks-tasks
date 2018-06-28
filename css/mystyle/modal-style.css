@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+}
+
+.panel-width {
+    min-width: 200px;
+    min-height: 108px;
+}
+
+.td-align-top {
+    vertical-align: top;
+}
+
+.panel{
+    margin-bottom: 26px;
+}
+
+.panel-bottom{
+    margin-bottom: 0px;
+}
+
+.panel-heading {
+  padding-left: 10px;
+}

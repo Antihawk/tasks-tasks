@@ -1,0 +1,86 @@
+.task-label {
+    margin-left: 0px;
+}
+
+.task-label-admin {
+    margin-left: 10px;
+}
+
+.panel-body {
+    padding: 10px 10px 5px 10px;
+}
+
+.panel-heading {
+  padding: 10px 15px 5px 10px;
+}
+
+
+.glic-text-done {
+    font-size: 20px;
+    color: forestgreen;
+}
+
+.glic-text-not-done {
+    font-size: 20px;
+    color: darkred;
+}
+
+div.mbot {
+    margin-bottom: 25px;
+}
+
+.border {
+    border: 1px solid;
+    border-color: #ddd;
+    border-radius: 4px;
+}
+
+.pager li > a {
+  border-radius: 5px;
+}
+
+.sort {
+    display:inline-block;
+}
+
+.sort-bor {
+    border: 1px solid;
+    border-color: #ddd;
+    border-radius: 4px;
+}
+
+.sort-1{
+    border-right: 1px solid;
+    border-color: #ddd;
+    padding: 5px 10px;
+}
+
+.sort-2 {
+    padding: 5px 10px;
+}
+
+.sort-3 {
+    border-left: 1px solid;
+    border-color: #ddd;
+    padding: 5px 10px;
+}
+
+.task-text {
+    word-wrap: break-word;
+    max-width: 272px;
+}
+
+.sort-right {
+    position: absolute;
+    right: 0px;
+}
+
+.panel-group .panel+.panel {
+    margin-top: 18px;
+}
+
+.margin-bottom-right-column-elements{
+    margin-bottom: 15px;
+}
+
+
